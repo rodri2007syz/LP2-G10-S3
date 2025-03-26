@@ -22,7 +22,8 @@ public:
     double total;
 
     Pedido(); // Constructor por defecto
-    Pedido(string cli); // Constructor con parámetros
+    Pedido(string cli); // Constructor con parametro
+
     ~Pedido();
     void agregarProducto(Producto* prod, int cantidad);
     void mostrarPedido() const;
