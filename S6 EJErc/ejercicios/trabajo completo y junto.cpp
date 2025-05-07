@@ -102,7 +102,7 @@ public:
         }
     }
 
-    // Método para calcular el promedio de los promedios de los alumnos
+    // promedio de los promedios de los alumnos
     float calcularPromedioDePromedios() const {
         if (alumnos.empty()) {
             cout << "La lista de alumnos esta vacia. No se puede calcular el promedio de promedios." << endl;
