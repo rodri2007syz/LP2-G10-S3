@@ -1,0 +1,2 @@
+Piero,1234,123,Cliente
+rodrigo,12345,1234,Administrador
