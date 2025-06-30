@@ -1,0 +1,3 @@
+Juan Perez,12345678,987654321,Cliente
+Maria Lopez,87654321,912345678,Administrador
+pierol,123456,1234,Administrador
